@@ -54,7 +54,7 @@ public class OneSignalExampleApp extends Application {
 
       String currentAppId = getOneSignalAppId(this);
       if (currentAppId == null)
-         setOneSignalAppId(this, "0ba9731b-33bd-43f4-8b59-61172e27447d");
+         setOneSignalAppId(this, "19ccf7eb-555d-42d2-89c8-e5f879800512");
 
       OneSignal.init(
          this,
